@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         String str ="hello student";
         System.out.println(str);
+        String str2 ="GIT doe";
+        System.out.println(str2);
     }
 }
